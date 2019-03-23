@@ -50,4 +50,4 @@ def removeOne(name):
 
 	mycol.delete_one(myquery) 
 """
-run(reloader=True, debug=True, host='0.0.0.0', port=8080)
+run(reloader=True, debug=True, host='127.0.0.1', port=8080)
