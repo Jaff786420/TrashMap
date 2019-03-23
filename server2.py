@@ -1,4 +1,4 @@
-from bottle import Bottle, run, route, static_file, request, response, template, get
+from bottle import Bottle, run, route, static_file, request, response, template, get, post
 from pymongo import MongoClient
 from bson.json_util import dumps
 from bson.objectid import ObjectId
