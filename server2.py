@@ -50,5 +50,4 @@ def removeOne(name):
 
 	mycol.delete_one(myquery) 
 """
-run(reloader=True, debug=True)
-
+run(reloader=True, debug=True, host='mighty-brook-54547.herokuapp.com', port=8080)
