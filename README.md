@@ -10,32 +10,59 @@ MIT/GNU
 
 ### INSTALLATION INSTRUCTIONS
 
-1. Wastebin recognition: Step 1: install Anaconda
+1. Wastebin recognition: 
+                         
+                         Step 1: install Anaconda
+
                          Step 2: create an anaconda environment
+                         
                          Step 3: install all tensorflow libraries
+                         
                          Step 4: launch a jupyter notebook
+                         
                          Step 5: upload the object_detection file
+                         
                          Step 6: run object_detection file
                       
-2. Back End: Step 1: Create a remote server online using Heroku and deploy the application
+2. Back End: 
+
+             Step 1: Create a remote server online using Heroku and deploy the application
+
              Step 2: Use Bottle framework for Python to create APIs for sending and receiving data
+             
              Step 3: Use AWS S3 to store images of the dustbins and for classification of the images
+             
              Step 4: Integrate back end with the front end 
  
-3. Front End: Step 1:Install node.js
+3. Front End: 
+
+              Step 1:Install node.js
+
               Step 2:Install python IDE
+              
               Step 3:Create a github account
+              
               Step 4:Use an editor to create the HTML,JSON and Py files
+              
               Step 5:Push all these files into Github
+              
               Step 6:Extract all into Heroku App
+              
               Step 7:In the Heroku app, click deployment and then click view.
+              
               Step 8:If there are any changes to be made, we should use the following command:-
                      1)git add.
                      2)git commit -m 'nc'
                      3)git push origin master
-4. OpenStreetMap:Step 1: Install OpenLayers
+                     
+4. OpenStreetMap: 
+
+                 Step 1: Install OpenLayers
+
                  ->we can create the map, using latitude and longitude of a particular area and add a marker to it. This marker                           represents the dustbin which the user uploads.
+                 
                  ->we can report if the dustbin has any issues, and eventually leads to deletion after some form of verification.
+                 
                  ->we can also find the nearest dustbin from a user's current location.
    
    
@@ -49,16 +76,13 @@ The application will be used by the organisation and by users to track the dustb
 
 ### Contributors:
   
-#### R.MANOJ                (rmanoj2346@gmail.com)
-#### RUDRESH MAHESH         (mrudresh333@gmail.com)
-#### MOHAMED SALMAN         (salman97@gmail.com)
-#### MOHAMED JAFFAR NIYAZ   (mohamedjaffar450@gmail.com)
-#### VARSHA VIVEK           (varsha98@gmail.com)  
-#### YASHASWINI KULKARNI    (yashumk0101@gmail.com) 
-#### SHRUTI POTDAR          (shrutipotdar99@gmail.com)  
-#### SUMAN R A              (algoodsr@gmail.com) 
+###### R.MANOJ                (rmanoj2346@gmail.com)
+###### RUDRESH MAHESH         (mrudresh333@gmail.com)
+###### MOHAMED SALMAN         (salman97@gmail.com)
+###### MOHAMED JAFFAR NIYAZ   (mohamedjaffar450@gmail.com)  
+ 
   
-  
+   
   
   
   
