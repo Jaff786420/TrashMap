@@ -78,6 +78,8 @@ The application will be used by the organisation and by users to track the dustb
   
 ###### VARSHA VIVEK           (varsha98@gmail.com)
 ###### SHRUTI POTDAR          (shrutipotdar99@gmail.com)
+###### MOHAMED JAFFAR NIYAZ   (mohamedjaffar450@gmail.com)
+
 ###### R.MANOJ                (rmanoj2346@gmail.com)
 ###### RUDRESH MAHESH         (mrudresh333@gmail.com)
 ###### MOHAMED SALMAN         (salman97@gmail.com)
