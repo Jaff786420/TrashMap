@@ -78,9 +78,9 @@ The application will be used by the organisation and by users to track the dustb
   
 ###### VARSHA VIVEK           (varsha98@gmail.com)
 ###### SHRUTI POTDAR          (shrutipotdar99@gmail.com)
-###### YASHASWINI K           ()
-###### SPOORTHY M             ()
-###### SUMAN R A              ()
+###### YASHASWINI K           (yashumk0101@gmail.com)
+###### SPOORTHY M             (spoorthymadhu@gmail.com)
+###### SUMAN R A              (algoodsr@gmail.com)
 ###### R.MANOJ                (rmanoj2346@gmail.com)
 ###### RUDRESH MAHESH         (mrudresh333@gmail.com)
 ###### MOHAMED SALMAN         (salman97@gmail.com)
